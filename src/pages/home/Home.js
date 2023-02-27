@@ -30,7 +30,7 @@ function Home() {
 
 
     const api = () => {
-        axios.get('https://newsapi.org/v2/top-headlines?country=tr&apiKey=8d8fc178de1741be89da43d8161c27ae')
+        axios.get('https://newsapi.org/v2/top-headlines?country=tr&apiKey=676f017549224f488970f1835f9db971')
             .then(function (response) {
                 setNews(response.data.articles)
             })
