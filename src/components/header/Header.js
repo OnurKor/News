@@ -96,7 +96,7 @@ function Header() {
                     })
                     }
                 >
-                    AboutUs
+                    About Us
                 </NavLink>
 
             </Box>
