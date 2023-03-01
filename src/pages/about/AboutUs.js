@@ -114,7 +114,7 @@ function AboutUs() {
                     textAlign: "center",
                 }}>
                     {/* <Typography>Onur KORDOĞAN</Typography> */}
-                    <Typography sx={{ paddingBottom: "10px" }}>Full Stack Developer</Typography>
+                    <Typography sx={{ paddingBottom: "10px" }}>Frontend Developer</Typography>
 
                     <ContactMailIcon color='primary' fontSize='large' />
                     <Box sx={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center" }}>
