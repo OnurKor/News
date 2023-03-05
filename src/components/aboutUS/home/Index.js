@@ -55,7 +55,7 @@ function Index() {
             },
           }} />
           <Typography sx={{ fontSize: "18px", color: "#666" }}>
-            resume
+            Resume
           </Typography>
         </Link>
 

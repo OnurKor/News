@@ -45,6 +45,7 @@ function Home() {
     useEffect(() => {
         api()
     }, []);
+    console.log(news);
 
     const handlePageClick = (event, value) => {
         setCurrentPage(value)
